@@ -1,5 +1,4 @@
-
-# Latihan 2 Aplikasi Penghitung Umur
+# Latihan 2 Aplikasi Penghitung Umur Atma Fathul Hadi-(2210010425)
 
 Aplikasi **Penghitung Umur** ini ditulis dalam bahasa pemrograman Java. Aplikasi ini dapat menghitung umur berdasarkan tanggal lahir yang dimasukkan dan menampilkan event-event penting yang terjadi pada tanggal tertentu dalam sejarah.
 
