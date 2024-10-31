@@ -1,2 +1,2 @@
-# PenghitungUmur
- Latihan 2 -Muhammad Azhari Nur Pratama-2210010326
+# Aplikasi PenghitungUmur
+ Latihan 2 - Atma Fathul Hadi (2210010425)
